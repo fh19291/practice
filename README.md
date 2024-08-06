@@ -1,1 +1,1 @@
-# SQL practice2
+#PowerBI and SQL
